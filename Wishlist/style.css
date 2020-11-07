@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(80deg, grey, white);
+}
+
+.tierOne {
+  background-color: white;
+  text-align: center;
+  vertical-align: middle;
+  justify-content: center;
+  margin: 10px;
+}
+
+.tierTwo {
+  background-color: white;
+  text-align: center;
+  vertical-align: middle;
+  justify-content: center;
+  margin: 10px;
+}
